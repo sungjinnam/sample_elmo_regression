@@ -1,8 +1,7 @@
 # Keras+ELMo regression
 
 This notebook is a sample code of using Keras and ELMo (<https://tfhub.dev/google/elmo/2>) to predict the informativeness score of sentences.
-*Note: This code sample does not contain the sentence data or model weights.*
-*Note: The notebook only contains the preliminary testing results of lager work.*
+*Note: This code sample does not contain the sentence data or model weights. The notebook only contains the preliminary testing results of lager work.*
 
 ## Input
 
